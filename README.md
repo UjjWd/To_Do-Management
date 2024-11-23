@@ -140,39 +140,5 @@ npm start
 <img src="screenshots/12.png">
 </div>
 
-## 🕴 Contributors <a name = "Contributors"></a>
-
-<table>
-  <tr>
-    <td align="center">
-    <a href="https://github.com/ZiadSheriif" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="150px;" alt="Ziad Sherif"/>
-    <br />
-    <sub><b>Ziad Sherif</b></sub></a>
-    </td>
-    
-    
-  </tr>
- </table>
-
- ## ⏳ Backlog
- - [x] ~~Add a feature to categorize tasks, allowing users to filter tasks by category.~~
- - [x] ~~Implement a due date feature that allows users to set a due date for tasks and receive reminders when tasks are approaching their deadline.~~
- - [x] ~~Add the ability to sort tasks by various criteria, such as due date, priority, or category.~~
- - [ ] Store tasks in a JSON file instead of local storage. 
- - [x] ~~Implement a search functionality to enable users to search for specific tasks by keyword or phrase.~~
- - [x] ~~Add the ability to prioritize tasks by assigning them different levels of importance or urgency.~~
- - [ ] Implement a calendar view that shows tasks on a monthly or weekly calendar, making it easier for users to plan and manage their tasks.
- - [ ] Add directory that user can attach task in a sub directory.
- - [ ] Implement authentication and authorization features to allow users to create and manage their own tasks.
- - [ ] Allow users to drag and drop tasks to rearrange their order or move them between categories.
- - [x] ~~Ability to filter tasks by status (all, active, completed).~~
- - [x] ~~Ability to edit task details.~~ 
 
 
-
-
-
-## 📃 License <a name = "license"></a>
-
-> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/Todo-List/blob/main/LICENSE) for more information ©ZiadSheriif.
